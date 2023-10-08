@@ -1,2 +1,2 @@
-# Toward Autonomy in Subsea Robotic Intervention: Building a Knowledge Graph Framework Model
-Soon the description and code will be available - Using Python and TypeDB
+# Toward Autonomy in Subsea Robotic Intervention: Situation Awareness Model
+This is the code repository for my PhD ongoing project. Please refer to the license file. 
